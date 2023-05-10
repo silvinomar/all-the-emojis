@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/all-the-emojis/static/css/main.1ce90441.css",
+    "main.js": "/all-the-emojis/static/js/main.4ddf5c05.js",
+    "static/media/NotoColorEmoji-Regular.ttf": "/all-the-emojis/static/media/NotoColorEmoji-Regular.d7660b33dc7cb8add581.ttf",
+    "index.html": "/all-the-emojis/index.html",
+    "main.1ce90441.css.map": "/all-the-emojis/static/css/main.1ce90441.css.map",
+    "main.4ddf5c05.js.map": "/all-the-emojis/static/js/main.4ddf5c05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ce90441.css",
+    "static/js/main.4ddf5c05.js"
+  ]
+}
